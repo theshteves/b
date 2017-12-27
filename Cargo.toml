@@ -1,0 +1,14 @@
+[package]
+name = "b"
+version = "0.1.0"
+description = "🅱️"
+authors = ["theshteves <stevenkneiser@gmail.com>"]
+repository = "https://github.com/theshteves/b"
+license = "MIT"
+keywords = ["b", "best", "theshteves"]
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+]
+
+[dependencies]
