@@ -1,3 +1,1 @@
-pub fn b_emoji() {
-    println!("🅱️");
-}
+pub static B:&'static str = "🅱️";
